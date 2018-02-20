@@ -22,6 +22,7 @@
 	path = rust
 	url = https://github.com/redox-os/rust.git
 	shallow = true
+	branch = redox
 [submodule "redoxfs"]
 	path = redoxfs
 	url = https://github.com/redox-os/redoxfs.git
