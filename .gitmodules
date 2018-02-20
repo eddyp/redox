@@ -1,21 +1,28 @@
 [submodule "bootloader"]
 	path = bootloader
 	url = https://github.com/redox-os/bootloader.git
+	shallow = true
 [submodule "cookbook"]
 	path = cookbook
 	url = https://github.com/redox-os/cookbook.git
+	shallow = true
 [submodule "installer"]
 	path = installer
 	url = https://github.com/redox-os/installer.git
+	shallow = true
 [submodule "isolinux"]
 	path = isolinux
 	url = https://github.com/redox-os/isolinux.git
+	shallow = true
 [submodule "kernel"]
 	path = kernel
 	url = https://github.com/redox-os/kernel.git
+	shallow = true
 [submodule "rust"]
 	path = rust
 	url = https://github.com/redox-os/rust.git
+	shallow = true
 [submodule "redoxfs"]
 	path = redoxfs
 	url = https://github.com/redox-os/redoxfs.git
+	shallow = true
